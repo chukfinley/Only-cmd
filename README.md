@@ -1,4 +1,4 @@
-# Only some cmds lol
+# onlysomecmd.txt
 Its a Whid USB payload that is for english WHID USB Keybord Layout
 and for german Windows PC keybord.
 
